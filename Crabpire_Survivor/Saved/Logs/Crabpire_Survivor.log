@@ -1105,3 +1105,76 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2023.12.04-14.58.05:894][562]LogStatusBar: Looking status bar with open content browser drawer...
 [2023.12.04-14.58.05:894][562]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
 [2023.12.04-14.58.05:914][562]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2023.12.04-14.59.10:279][863]LogDerivedDataCache: C:/Users/2102182/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.034 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 302 files in 535 folders with total size 1 MiB.
+[2023.12.04-15.00.07:440][780]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-15.00.17:790][873]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.04-15.00.17:811][873]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.04-15.00.17:820][874]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.04-15.00.31:721][509]LogContentBrowser: Attempting asset rename: NewFolder -> CS_Blueprints
+[2023.12.04-15.00.31:722][509]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.04-15.00.40:956][509]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.04-15.00.40:978][509]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.04-15.00.40:985][510]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.04-15.00.46:152][104]LogContentBrowser: Attempting asset rename: NewFolder -> CS_Assets
+[2023.12.04-15.00.46:153][104]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.04-15.01.27:355][221]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.12.04-15.01.27:360][221]LogContentBrowser: Creating deferred item: NewWorld
+[2023.12.04-15.01.27:418][223]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.12.04-15.01.29:651][489]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2023.12.04-15.01.29:652][489]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-15.01.29:652][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-15.01.29:657][489]LogContentBrowser: End creating deferred item NewWorld
+[2023.12.04-15.01.31:917][736]LogObjectTools: Deleting 1 worlds: /Game/CS_Blueprints/NewWorld.NewWorld
+[2023.12.04-15.01.31:918][736]LogObjectTools: Currently 2 active worlds: /Game/TopDown/Maps/TopDownMap.TopDownMap, /Engine/Transient.World_0
+[2023.12.04-15.01.31:936][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.12.04-15.01.33:134][736]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.04-15.01.33:139][736]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-15.01.33:139][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-15.01.33:153][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.12.04-15.01.33:164][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.12.04-15.01.33:175][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.12.04-15.01.36:585][ 91]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.04-15.01.36:595][ 91]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.04-15.01.36:653][ 93]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.04-15.01.43:777][918]LogContentBrowser: Attempting asset rename: NewFolder -> CS_Player
+[2023.12.04-15.01.43:778][918]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.04-15.01.46:288][192]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.04-15.01.46:295][192]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.04-15.01.46:303][193]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.04-15.01.49:515][570]LogContentBrowser: Attempting asset rename: NewFolder -> CS_Enemy
+[2023.12.04-15.01.49:516][570]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.04-15.01.58:339][437]LogContentBrowser: Attempting asset rename: CS_Player -> CS_PlayerBP
+[2023.12.04-15.02.05:228][192]LogContentBrowser: Attempting asset rename: CS_Enemy -> CS_EnemyBP
+[2023.12.04-15.02.16:571][471]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.04-15.02.16:578][471]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.04-15.02.16:630][473]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.04-15.02.18:954][749]LogContentBrowser: Attempting asset rename: NewFolder -> SFXs
+[2023.12.04-15.02.18:955][749]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.04-15.02.23:312][214]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.04-15.02.23:328][214]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.04-15.02.23:335][215]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.04-15.02.31:498][163]LogContentBrowser: Attempting asset rename: NewFolder -> 2D_Art
+[2023.12.04-15.02.31:499][163]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.04-15.02.35:270][567]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.04-15.02.35:278][567]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.04-15.02.35:285][568]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.04-15.02.39:049][993]LogContentBrowser: Attempting asset rename: NewFolder -> 3D_Art
+[2023.12.04-15.02.39:051][993]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.04-15.03.31:036][208]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.9.70.118:56029, Sequence=0
+[2023.12.04-15.03.51:488][645]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.9.70.118:56029, Sequence=0
+[2023.12.04-15.03.51:488][645]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.9.70.118:56029, Sequence=0
+[2023.12.04-15.03.51:488][645]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.9.70.118:56029, Sequence=0
+[2023.12.04-15.03.51:488][645]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.9.70.118:56029, Sequence=0
+[2023.12.04-15.03.51:488][645]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=10.9.70.118:56029, Sequence=0
+[2023.12.04-15.03.51:488][645]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=10.9.70.118:56029, Sequence=0
+[2023.12.04-15.03.51:488][645]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=10.9.70.118:56029, Sequence=0
+[2023.12.04-15.03.51:488][645]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=10.9.70.118:56029, Sequence=0
+[2023.12.04-15.03.51:488][645]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=10.9.70.118:56029, Sequence=0
+[2023.12.04-15.03.51:488][645]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=10.9.70.118:56029, Sequence=0
+[2023.12.04-15.03.51:488][645]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=10.9.70.118:56029, Sequence=0
+[2023.12.04-15.03.51:488][645]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=10.9.70.118:56029, Sequence=0
+[2023.12.04-15.04.05:033][109]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.04-15.04.05:044][109]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.04-15.04.05:052][110]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.04-15.04.12:915][ 28]LogContentBrowser: Attempting asset rename: NewFolder -> CS_EnvironmentBP
+[2023.12.04-15.04.12:916][ 28]LogContentBrowser: End creating deferred item NewFolder
