@@ -2755,3 +2755,15 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.12.05-16.19.46:035][778]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.12.05-16.19.46:044][779]LogPlayLevel: Display: Destroying online subsystem :Context_17
 [2023.12.05-16.19.46:049][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.05-16.21.13:936][  6]BlueprintLog: New page: Compile TopDownMap
+[2023.12.05-16.21.13:985][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.05-16.21.14:394][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-16.21.14:471][ 36]LogFileHelpers: No new changes to save!
+[2023.12.05-16.21.14:471][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Maps/TopDownMap" FILE="D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Maps/TopDownMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.05-16.21.14:507][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.12.05-16.21.14:524][ 36]LogSavePackage: Moving output files for package: /Game/TopDown/Maps/TopDownMap
+[2023.12.05-16.21.14:525][ 36]LogSavePackage: Moving 'D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Saved/TopDownMap14ADB7AD4DFC34C37E2E4DAB8671CA7D.tmp' to 'D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Maps/TopDownMap.umap'
+[2023.12.05-16.21.14:534][ 36]LogFileHelpers: Saving map 'TopDownMap' took 0.063
+[2023.12.05-16.21.14:540][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 1.77 sec)
+[2023.12.05-16.21.14:549][ 36]AssetCheck: New page: Asset Save: TopDownMap
+[2023.12.05-16.21.14:549][ 36]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDown/Maps/TopDownMap.TopDownMap
