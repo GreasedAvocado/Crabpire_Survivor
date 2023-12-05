@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BP_IngameUI.uasset",
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BPI_UI.uasset",
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerController.uasset",
 				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerBP.uasset",
 				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerController.uasset",
 				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Input/Actions/IA_Move.uasset",
