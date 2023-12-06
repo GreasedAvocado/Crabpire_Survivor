@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"S:/Unreal Projects/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_ReefBP/CS_ReefBP.uasset",
+				"S:/Unreal Projects/Crabpire_Survivor/Crabpire_Survivor/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/MF/UEHC4Y7LTNE04N9SCUX50Q.uasset",
+				"S:/Unreal Projects/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_ReefBP/CS_UpgradeReefBP.uasset",
 				"C:/Users/Hayden Van der Linde/Documents/Unreal Projects/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerController.uasset",
 				"C:/Users/Hayden Van der Linde/Documents/Unreal Projects/Crabpire_Survivor/Crabpire_Survivor/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/MF/UEHC4Y7LTNE04N9SCUX50Q.uasset",
 				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerBP.uasset",
