@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerBP.uasset",
+				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerController.uasset",
+				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Input/IMC_Default.uasset",
+				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_Inputs/CS_InputMappingContext.uasset",
+				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_Inputs/CS_InputActions/IA_Move.uasset",
+				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_GameMode.uasset",
+				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Maps/TopDownMap.umap",
+				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"D:/2001378/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerControllerBackup.uasset",
+				"D:/2001378/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerBPBackup.uasset",
 				"C:/Users/Jan/Desktop/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PowerUps/WeaponsEnum.uasset",
 				"C:/Users/Jan/Desktop/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PowerUps/BaseWeaponsStruct.uasset",
 				"C:/Users/Jan/Desktop/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PowerUps/DT_Weapons.uasset",
@@ -45,16 +56,7 @@
 				"C:/Users/Jan/Desktop/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PowerUps/DT_WeaponsLevelUp.uasset",
 				"C:/Users/Jan/Desktop/Crabpire_Survivor/Crabpire_Survivor/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/GE/YY7FN9I0U9N3M6GMDDIKJX.uasset",
 				"C:/Users/Jan/Desktop/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PowerUps/WeaponEnum.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerBP.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerController.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Input/Actions/IA_Move.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Input/IMC_Default.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Blueprints/BP_TopDownController.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_Inputs/CS_InputMappingContext.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_Inputs/CS_InputActions/IA_Move.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_GameMode.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Maps/TopDownMap.umap",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
+				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Input/Actions/IA_Move.uasset"
 			]
 		}
 	]
