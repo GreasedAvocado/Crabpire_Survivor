@@ -6,18 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BP_IngameUI.uasset",
-				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BPI_UI.uasset",
-				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerController.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerBP.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerController.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Input/Actions/IA_Move.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Input/IMC_Default.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Blueprints/BP_TopDownController.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_Inputs/CS_InputMappingContext.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_Inputs/CS_InputActions/IA_Move.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_GameMode.uasset",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Maps/TopDownMap.umap",
-				"D:/2102182/Crabpire_Survivor/Crabpire_Survivor/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/Level_MainMenu.umap",
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/GMB_MainMenu.uasset",
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BPI_MainMenu.uasset",
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/Level_Menu.umap",
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/New_Level/Map.umap",
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BP_MenuCamera.uasset",
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BP_MainMenuCamera.uasset"
 			]
 		}
 	]
