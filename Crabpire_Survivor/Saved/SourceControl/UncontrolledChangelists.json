@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"S:/GitHub/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerBP.uasset",
+				"S:/GitHub/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/Level_Menu.umap",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/UI/DiscMaterial.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/UI/KeyDiskMaterial.uasset",
 				"S:/Unreal Projects/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerBP.uasset",
 				"S:/Unreal Projects/Crabpire_Survivor/Crabpire_Survivor/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK.uasset",
 				"S:/Unreal Projects/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BP_IngameUI.uasset",
