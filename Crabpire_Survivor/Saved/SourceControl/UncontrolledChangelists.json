@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"S:/GitHub/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerBP.uasset",
+				"S:/GitHub/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerController.uasset",
+				"S:/GitHub/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BP_IngameUI.uasset",
+				"S:/GitHub/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_ReefBP/CS_ReefBP.uasset",
+				"S:/GitHub/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BPI_PlayerHealthbar.uasset",
+				"S:/GitHub/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/UI_TimerCS.uasset",
+				"S:/GitHub/Crabpire_Survivor/Crabpire_Survivor/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/MF/UEHC4Y7LTNE04N9SCUX50Q.uasset",
 				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BP_IngameUI.uasset",
 				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/GMB_MainMenu.uasset",
 				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BPI_MainMenu.uasset",
