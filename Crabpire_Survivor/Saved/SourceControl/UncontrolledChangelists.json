@@ -6,13 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BP_IngameUI.uasset",
-				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/Level_MainMenu.umap",
 				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/GMB_MainMenu.uasset",
 				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BPI_MainMenu.uasset",
 				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/Level_Menu.umap",
 				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/New_Level/Map.umap",
 				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BP_MenuCamera.uasset",
-				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BP_MainMenuCamera.uasset"
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BP_MainMenuCamera.uasset",
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_PlayerBP/CS_PlayerBP.uasset",
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/BPI_PlayerHealthbar.uasset",
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_ReefBP/CS_ReefBP.uasset",
+				"E:/Projects/University Projects/Year 2 - Indie/Multi-Level Jam/Crabpire_Survivor/Crabpire_Survivor/Content/CS_Blueprints/CS_UI/Level_MainMenu.umap"
 			]
 		}
 	]
